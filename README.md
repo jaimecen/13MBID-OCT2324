@@ -10,6 +10,7 @@ Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
 Alumno: Jaime Andrés Cendales Sora
+Inicio de la práctica I: 12 de marzo
 
 ## Descripción del contenido
 
